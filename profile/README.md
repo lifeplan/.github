@@ -94,9 +94,9 @@
 
 | 분류 | 기술 |
 |------|------|
-| **Frontend** | React Native (iOS / Android 크로스플랫폼) |
-| **Backend** | Node.js 또는 Python (Django/FastAPI) |
-| **Database** | PostgreSQL + Redis |
+| **Frontend** | iOS / Android 크로스플랫폼 |
+| **Backend** | Node.js 또는 Python |
+| **Database** | RDB, NoSQL, anytings |
 | **Infra** | AWS 또는 GCP |
 
 ---
